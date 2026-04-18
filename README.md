@@ -1,10 +1,10 @@
-# Μέμνη (Mémnē)
+# Κέριξ (Kérix)
 ![Alt text](https://github.com/aatel-license/kerix/blob/main/kerix.png "kerix")
 
 *A hybrid news pipeline that extracts article content from RSS feeds and direct URLs, then sends the processed text to a callback endpoint.*
 
 
-> Il nome riflette l'essenza del progetto: estrarre e preservare i contenuti significativi dalle pagine web.
+> Κέριξ (Kérix) "Messaggero" — chi consegna i messaggi via webhook. Il nome riflette l'essenza del progetto: estrarre e preservare i contenuti significativi dalle pagine web.
 
 ## Overview
 
