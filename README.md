@@ -193,4 +193,4 @@ Processes URLs one by one and sends callbacks immediately after each extraction.
 
 ## License
 
-ISC
+[AATEL](https://github.com/aatel-license/Kerix/blob/main/LICENSE.md)
