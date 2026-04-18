@@ -1,8 +1,9 @@
 # Μέμνη (Mémnē)
+![Alt text](https://github.com/aatel-license/kerix/blob/main/kerix.png "kerix")
 
 *A hybrid news pipeline that extracts article content from RSS feeds and direct URLs, then sends the processed text to a callback endpoint.*
 
-> **Μέμνη** (μέμνη) — dal greco antico *memoria*, "ciò che rimane", "ricordo".
+
 > Il nome riflette l'essenza del progetto: estrarre e preservare i contenuti significativi dalle pagine web.
 
 ## Overview
